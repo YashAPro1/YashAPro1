@@ -67,11 +67,11 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/yashkumar-dubey-716933222)">
+  <a href="https://www.linkedin.com/in/yashkumar-dubey-716933222">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="[https://github.com/your-github-profile](https://github.com/YashAPro1)">
+  <a href="https://github.com/YashAPro1">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
