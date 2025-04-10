@@ -60,16 +60,6 @@ const yash = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkumardubey&layout=compact&theme=react&hide_border=true" alt="Yash's Language Stats" height="170px">
 </div>
 
-## 🔥 Recent Projects
-
-<div align="center">
-  <a href="https://github.com/yashkumardubey/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkumardubey&repo=project1&theme=react&hide_border=true" alt="Project 1">
-  </a>
-  <a href="https://github.com/yashkumardubey/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashkumardubey&repo=project2&theme=react&hide_border=true" alt="Project 2">
-  </a>
-</div>
 
 ## 🌱 Currently Learning
 
@@ -82,8 +72,7 @@ const yash = {
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashkumar_dubey)
   
 </div>
 
