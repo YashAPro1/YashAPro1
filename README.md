@@ -28,14 +28,6 @@ Currently focused on mastering **Python** ,**Deep Learning**, **Java 21**, **Spr
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashAPro1&theme=dark&column=3&margin-w=15&margin-h=15&no-frame=false" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -125,37 +117,6 @@ easy to test, and easy to change. Premature optimization is the root of all evil
 but thoughtful design is the foundation of scalability. Build systems that fail
 gracefully, recover automatically, and help their operators understand what's happening."
 ```
-
----
-
-## 🏢 Featured Technologies & Use Cases
-
-### **Temporal Workflows**
-Distributed workflow orchestration for complex business logic with built-in durability, retries, and human-in-the-loop workflows.
-
-### **GraphQL with Spring Boot**
-Type-safe, efficient API development combining Spring's robustness with GraphQL's powerful data fetching capabilities.
-
-### **Kafka-based Event Streaming**
-Building event-driven architectures for real-time data processing, CQRS patterns, and scalable microservices communication.
-
-### **Kubernetes in Production**
-Container orchestration, service discovery, auto-scaling, and GitOps deployments at enterprise scale.
-
-### **LLM-Powered Applications**
-Integrating cutting-edge language models into production with RAG, semantic search, and multi-agent systems.
-
-### **High-Performance API Design**
-Zero-copy architecture, connection pooling, caching strategies, and request batching for sub-millisecond latencies.
-
----
-
-## 📈 Activity & Contributions
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashAPro1&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
-
 ---
 
 ## 🎯 Current Project Focus
@@ -182,7 +143,7 @@ I'm actively building and contributing to projects that showcase:
 
 **Twitter/X:** [@yashkumar_dubey](https://twitter.com/yashkumar_dubey) — Tech insights & updates
 
-**Email:** [your.email@example.com](mailto:ydubey7979@gmail.com) — Direct collaboration inquiries
+**Email:** [Mail me](mailto:ydubey7979@gmail.com) — Direct collaboration inquiries
 
 </div>
 
