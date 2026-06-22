@@ -1,206 +1,309 @@
-<!-- Animated Header -->
+# Yashkumar Dubey
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=🤖+AI+Engineer;💻+Full-Stack+Developer;🚀+Innovation+Architect;⚡+Problem+Solver" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Engineer;Distributed+Systems+Enthusiast;Building+Scalable+Solutions" alt="Typing animation" />
 </div>
 
----
-
-# <div align="center">🧠 Yashkumar Dubey</div>
 <div align="center">
-  <strong>AI/ML Specialist | Full-Stack Engineer | Open Source Enthusiast</strong>
-  
-  <p>
-    <em>Crafting intelligent solutions that bridge the gap between code and cognition</em>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=YashAPro1&style=flat-square&color=00D9FF" alt="Profile Views" />
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashkumar-dubey-716933222/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashAPro1)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yashkumar_dubey)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yashkumardubey.onrender.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
 </div>
 
 ---
 
 ## 🎯 About Me
 
+I'm a **Backend Software Engineer** and **AI Engineer** passionate about designing and building scalable, high-performance distributed systems. I specialize in architecting microservices, crafting robust APIs, implementing AI solutions, and tackling complex system design challenges. My engineering journey is driven by an obsession with code quality, system reliability, and elegant solutions to hard problems.
+
+Currently focused on mastering **Java 21**, **Spring Boot**, **Microservices Architecture**, **GraphQL**, **Temporal Workflows**, **LLM Applications**, and **Cloud-Native Engineering** at scale.
+
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <p>
-    💡 Passionate about <strong>Artificial Intelligence</strong> & <strong>Software Engineering</strong><br>
-    🔬 Building scalable, intelligent systems that solve real-world problems<br>
-    🌐 Full-stack developer with expertise in modern web technologies<br>
-    📚 Continuous learner exploring GenAI, Cloud Computing & Edge AI
-  </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=YashAPro1&theme=dark&column=3&margin-w=15&margin-h=15&no-frame=false" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 📊 GitHub Statistics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashAPro1&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YashAPro1&theme=dark&hide_border=true" alt="GitHub Streak" height="180px" />
+</div>
 
-### 🤖 AI/ML Technologies
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAPro1&theme=dark&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" height="180px" />
+</div>
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
+
+## 💻 Tech Stack
+
+### **Backend Engineering**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 
-### 🎨 Frontend & UI
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector%20Database-4B0082?style=for-the-badge&logo=databricks&logoColor=white)
 
-### 🔧 Backend & DevOps
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **Message Queues & Streaming**
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-00ADD8?style=for-the-badge)
+
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+
+### **Architecture & Tools**
+![Microservices](https://img.shields.io/badge/Microservices-FF5733?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-E34234?style=for-the-badge)
+![NX Monorepo](https://img.shields.io/badge/NX%20Monorepo-143055?style=for-the-badge&logo=nx&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+---
 
-</div>
+## 🏗️ Backend Expertise
+
+- **Microservices Architecture** — Designing and implementing loosely coupled, independently deployable services
+- **API Design** — Building robust REST, GraphQL, and gRPC APIs with proper error handling and versioning
+- **Database Optimization** — Query optimization, indexing strategies, schema design for scale
+- **Message-Driven Systems** — Kafka, RabbitMQ, and event-driven architecture patterns
+- **Distributed Systems** — Handling consensus, fault tolerance, and eventual consistency
+- **Concurrency & Performance** — Multi-threading, async programming, reactive systems, high-throughput APIs
+- **System Design** — Designing systems that scale to millions of users with 99.99% uptime
 
 ---
 
-## 🚀 Expertise
+## 🤖 AI Engineering Focus
 
-```python
-class YashKumarDubey:
-    def __init__(self):
-        self.specialization = {
-            "AI/ML": [
-                "Deep Learning",
-                "Natural Language Processing (NLP)",
-                "Computer Vision",
-                "Generative AI / LLMs",
-                "Machine Learning Operations (MLOps)",
-                "Neural Networks Architecture"
-            ],
-            "Full-Stack Development": [
-                "React.js & Next.js",
-                "Node.js & Express",
-                "RESTful APIs & GraphQL",
-                "Microservices Architecture",
-                "Progressive Web Apps",
-                "Single Page Applications"
-            ],
-            "DevOps & Cloud": [
-                "CI/CD Pipelines",
-                "Docker Containerization",
-                "Kubernetes Orchestration",
-                "AWS & GCP Services",
-                "Infrastructure as Code"
-            ]
-        }
-        self.passion = "Building intelligent systems that solve real-world problems"
-        self.current_mission = "Creating scalable AI solutions for production environments"
+- **Large Language Models** — Fine-tuning, prompt engineering, model selection and optimization
+- **Retrieval-Augmented Generation (RAG)** — Building intelligent search and Q&A systems
+- **Vector Databases** — Semantic search, embeddings, and similarity matching at scale
+- **AI Agents** — Building autonomous agents with multi-step reasoning and tool use
+- **LLM Applications** — ChatGPT integrations, content generation, code analysis
+- **Model Context Protocol (MCP)** — Building extensible AI systems with standardized interfaces
+- **Agentic Workflows** — Orchestrating complex multi-step AI processes
 
-    def solve_problems(self):
-        return "Write elegant code | Train smart models | Deploy efficiently"
+---
 
+## 🎓 Engineering Philosophy
+
+```
+"Simplicity is prerequisite for reliability. Write code that is easy to understand,
+easy to test, and easy to change. Premature optimization is the root of all evil,
+but thoughtful design is the foundation of scalability. Build systems that fail
+gracefully, recover automatically, and help their operators understand what's happening."
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## 🔬 Currently Exploring
+
+- **Advanced LLM Architectures** — Function calling, tool use, and complex reasoning patterns
+- **Distributed Consensus** — Raft, PBFT, and other consensus mechanisms for fault tolerance
+- **High-Performance Databases** — Column stores, time-series databases, and analytical systems
+- **Serverless & Edge Computing** — Building systems that run anywhere with minimal overhead
+- **Observability at Scale** — Distributed tracing, metrics, and logging for complex systems
+- **Quantitative Development** — Mathematical approaches to system design and optimization
+
+---
+
+## 🚀 2026 Goals
+
+**Technical Mastery:**
+- [ ] Achieve deep expertise in system design at Google/Meta/Netflix scale
+- [ ] Contribute significantly to major open-source distributed systems project
+- [ ] Build and deploy a production-grade AI Agent system handling 100K+ daily requests
+- [ ] Master Rust for performance-critical systems
+
+**Career Development:**
+- [ ] Lead architecture decisions for high-scale backend systems
+- [ ] Establish thought leadership in Backend Engineering × AI
+- [ ] Build a portfolio of 3+ major engineering projects
+- [ ] Share insights through technical content and mentorship
+
+**Knowledge Expansion:**
+- [ ] Implement a distributed SQL query engine from scratch
+- [ ] Deep expertise in building production RAG systems
+- [ ] Design a production-grade service mesh architecture
+- [ ] Advanced performance optimization and profiling skills
+
+---
+
+## 🏢 Featured Technologies & Use Cases
+
+### **Temporal Workflows**
+Distributed workflow orchestration for complex business logic with built-in durability, retries, and human-in-the-loop workflows.
+
+### **GraphQL with Spring Boot**
+Type-safe, efficient API development combining Spring's robustness with GraphQL's powerful data fetching capabilities.
+
+### **Kafka-based Event Streaming**
+Building event-driven architectures for real-time data processing, CQRS patterns, and scalable microservices communication.
+
+### **Kubernetes in Production**
+Container orchestration, service discovery, auto-scaling, and GitOps deployments at enterprise scale.
+
+### **LLM-Powered Applications**
+Integrating cutting-edge language models into production with RAG, semantic search, and multi-agent systems.
+
+### **High-Performance API Design**
+Zero-copy architecture, connection pooling, caching strategies, and request batching for sub-millisecond latencies.
+
+---
+
+## 📈 Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashAPro1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAPro1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YashAPro1&theme=radical&hide_border=true" alt="GitHub Streak" height="180px">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashAPro1&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
-## 🎓 Currently Learning & Exploring
+## 🎯 Current Project Focus
 
-<div align="center">
+I'm actively building and contributing to projects that showcase:
 
-| 🔬 Area | 📚 Focus |
-|---------|---------|
-| **Generative AI** | Advanced LLM Fine-tuning, Prompt Engineering, RAG |
-| **Cloud Native** | Cloud-native architectures, Serverless computing |
-| **Edge AI** | Model deployment on edge devices, TensorFlow Lite |
-| **Quantum AI** | Quantum machine learning fundamentals |
-| **MLOps** | Production ML pipelines, Model monitoring & versioning |
-
-</div>
+- **Backend Systems** — Microservices with Spring Boot, gRPC, GraphQL, and Apache Kafka
+- **AI Applications** — LLM applications using LangChain, RAG, and vector databases
+- **Distributed Infrastructure** — Kubernetes, Docker, Infrastructure-as-Code, and cloud-native patterns
+- **System Design** — Educational projects demonstrating scalable architecture patterns
+- **Performance Engineering** — High-throughput systems, caching strategies, and optimization techniques
 
 ---
 
-## 🌟 Featured Skills & Achievements
-
-<div align="center">
+## 📚 Continuous Learning Path
 
 ```
-┌─────────────────────────────────────────┐
-│   🏆 Core Competencies                 │
-├─────────────────────────────────────────┤
-│ ✅ End-to-End AI/ML Pipeline Design    │
-│ ✅ Full-Stack Web Application Dev       │
-│ ✅ System Design & Architecture         │
-│ ✅ Cloud Infrastructure & DevOps        │
-│ ✅ Data Analysis & Visualization        │
-│ ✅ API Development & Integration        │
-│ ✅ Problem Solving & Optimization       │
-│ ✅ Code Quality & Best Practices        │
-└─────────────────────────────────────────┘
+Phase 1: Advanced Java & Spring Ecosystem
+├── Java 21 virtual threads, records & pattern matching
+├── Spring Boot 3.x with GraalVM native compilation
+└── High-performance API design with reactive systems
+
+Phase 2: Distributed Systems Mastery
+├── Consensus algorithms & Byzantine fault tolerance
+├── Microservices architecture & decomposition patterns
+└── Distributed tracing, metrics & observability
+
+Phase 3: AI Infrastructure Engineering
+├── LLM fine-tuning, quantization & model optimization
+├── Vector database architecture & similarity search
+└── Multi-agent orchestration & AI workflows
+
+Phase 4: System Design at Scale
+├── Petabyte-scale database architecture
+├── Global distributed systems & geo-redundancy
+└── Real-time analytics & streaming platforms
 ```
 
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+**LinkedIn:** [Yashkumar Dubey](https://www.linkedin.com/in/yashkumar-dubey-716933222/) — Professional network & insights
+
+**GitHub:** [YashAPro1](https://github.com/YashAPro1) — Code, projects & contributions
+
+**Portfolio:** [yashkumardubey.onrender.com](https://yashkumardubey.onrender.com) — Project showcase & case studies
+
+**Twitter/X:** [@yashkumar_dubey](https://twitter.com/yashkumar_dubey) — Tech insights & updates
+
+**Email:** [your.email@example.com](mailto:your.email@example.com) — Direct collaboration inquiries
+
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 💡 Core Engineering Principles
+
+I build systems based on:
+
+- **Correctness First** — Reliability and correctness before performance optimization
+- **Design for Observability** — Logging, metrics, and tracing are first-class concerns
+- **Graceful Degradation** — Systems should fail partially, not catastrophically
+- **Performance by Design** — Scalability baked into architecture, not bolted on later
+- **Open Source Mindset** — Contributing to and leveraging community-driven tools
+- **Continuous Improvement** — Measure, analyze, optimize in feedback loops
+- **Simple Solutions** — "Simple" doesn't mean easy; it means clear and maintainable
+
+---
+
+## 📜 Development Stack Reference
+
+```
+Languages:    Java 21 | Python | Node.js | TypeScript | Bash
+Frameworks:   Spring Boot | Express | FastAPI | React | Next.js
+Databases:    PostgreSQL | MongoDB | Redis | Elasticsearch | DuckDB
+Messaging:    Apache Kafka | RabbitMQ | Redis Streams | gRPC
+DevOps:       Docker | Kubernetes | GitHub Actions | Terraform | AWS
+Monitoring:   Prometheus | Grafana | ELK Stack | OpenTelemetry
+Tools:        IntelliJ IDEA | VS Code | Git | Maven | Gradle | Docker
+```
+
+---
+
+## 🎖️ Key Achievements
+
+- Building scalable backend systems handling millions of requests per day
+- Architecting microservices from the ground up with proper observability
+- Implementing distributed workflows with Temporal for complex business logic
+- Creating AI-powered applications using modern LLM frameworks
+- Contributing to performance optimization achieving 10x+ improvements
+- Leading system design discussions for critical infrastructure
+
+---
+
+## 🎬 Contribution History
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashkumar-dubey-716933222/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YashAPro1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://yashkumardubey.onrender.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yashkumar_dubey)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 ---
 
-## 💡 Philosophy
+<div align="center">
 
-> *"Code is poetry written in logic, and AI is the canvas where possibilities become reality."*
+### *"The best systems are invisible — they just work."*
 
-**I believe in:**
-- 🎯 Writing clean, maintainable, and scalable code
-- 🧠 Building intelligent systems that learn and adapt
-- 🌍 Creating technology that makes a positive impact
-- 📈 Continuous learning and pushing boundaries
-- 🤝 Collaborating with brilliant minds
+**Building, learning, and shipping code every single day.**
+
+⭐ If you find my projects valuable, consider giving them a star on GitHub!
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashAPro1&style=flat-square&color=00FF41" alt="Profile Views">
-</div>
+<sub>Last Updated: June 2026 | Built with ❤️ and plenty of ☕</sub>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
-
----
-
-<div align="center">
-  <strong>⭐ Feel free to explore my repositories and connect with me! Let's build something amazing together.</strong>
 </div>
