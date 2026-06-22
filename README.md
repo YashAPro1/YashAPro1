@@ -24,7 +24,7 @@
 
 I'm a **Backend Software Engineer** and **AI Engineer** passionate about designing and building scalable, high-performance distributed systems. I specialize in architecting microservices, crafting robust APIs, implementing AI solutions, and tackling complex system design challenges. My engineering journey is driven by an obsession with code quality, system reliability, and elegant solutions to hard problems.
 
-Currently focused on mastering **Java 21**, **Spring Boot**, **Microservices Architecture**, **GraphQL**, **Temporal Workflows**, **LLM Applications**, and **Cloud-Native Engineering** at scale.
+Currently focused on mastering **Python** ,**Deep Learning**, **Java 21**, **Spring Boot**, **Microservices Architecture**, **GraphQL**, **Temporal Workflows**, **LLM Applications**, and **Cloud-Native Engineering** at scale.
 
 ---
 
@@ -128,39 +128,6 @@ gracefully, recover automatically, and help their operators understand what's ha
 
 ---
 
-## 🔬 Currently Exploring
-
-- **Advanced LLM Architectures** — Function calling, tool use, and complex reasoning patterns
-- **Distributed Consensus** — Raft, PBFT, and other consensus mechanisms for fault tolerance
-- **High-Performance Databases** — Column stores, time-series databases, and analytical systems
-- **Serverless & Edge Computing** — Building systems that run anywhere with minimal overhead
-- **Observability at Scale** — Distributed tracing, metrics, and logging for complex systems
-- **Quantitative Development** — Mathematical approaches to system design and optimization
-
----
-
-## 🚀 2026 Goals
-
-**Technical Mastery:**
-- [ ] Achieve deep expertise in system design at Google/Meta/Netflix scale
-- [ ] Contribute significantly to major open-source distributed systems project
-- [ ] Build and deploy a production-grade AI Agent system handling 100K+ daily requests
-- [ ] Master Rust for performance-critical systems
-
-**Career Development:**
-- [ ] Lead architecture decisions for high-scale backend systems
-- [ ] Establish thought leadership in Backend Engineering × AI
-- [ ] Build a portfolio of 3+ major engineering projects
-- [ ] Share insights through technical content and mentorship
-
-**Knowledge Expansion:**
-- [ ] Implement a distributed SQL query engine from scratch
-- [ ] Deep expertise in building production RAG systems
-- [ ] Design a production-grade service mesh architecture
-- [ ] Advanced performance optimization and profiling skills
-
----
-
 ## 🏢 Featured Technologies & Use Cases
 
 ### **Temporal Workflows**
@@ -203,32 +170,6 @@ I'm actively building and contributing to projects that showcase:
 
 ---
 
-## 📚 Continuous Learning Path
-
-```
-Phase 1: Advanced Java & Spring Ecosystem
-├── Java 21 virtual threads, records & pattern matching
-├── Spring Boot 3.x with GraalVM native compilation
-└── High-performance API design with reactive systems
-
-Phase 2: Distributed Systems Mastery
-├── Consensus algorithms & Byzantine fault tolerance
-├── Microservices architecture & decomposition patterns
-└── Distributed tracing, metrics & observability
-
-Phase 3: AI Infrastructure Engineering
-├── LLM fine-tuning, quantization & model optimization
-├── Vector database architecture & similarity search
-└── Multi-agent orchestration & AI workflows
-
-Phase 4: System Design at Scale
-├── Petabyte-scale database architecture
-├── Global distributed systems & geo-redundancy
-└── Real-time analytics & streaming platforms
-```
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -241,23 +182,9 @@ Phase 4: System Design at Scale
 
 **Twitter/X:** [@yashkumar_dubey](https://twitter.com/yashkumar_dubey) — Tech insights & updates
 
-**Email:** [your.email@example.com](mailto:your.email@example.com) — Direct collaboration inquiries
+**Email:** [your.email@example.com](mailto:ydubey7979@gmail.com) — Direct collaboration inquiries
 
 </div>
-
----
-
-## 💡 Core Engineering Principles
-
-I build systems based on:
-
-- **Correctness First** — Reliability and correctness before performance optimization
-- **Design for Observability** — Logging, metrics, and tracing are first-class concerns
-- **Graceful Degradation** — Systems should fail partially, not catastrophically
-- **Performance by Design** — Scalability baked into architecture, not bolted on later
-- **Open Source Mindset** — Contributing to and leveraging community-driven tools
-- **Continuous Improvement** — Measure, analyze, optimize in feedback loops
-- **Simple Solutions** — "Simple" doesn't mean easy; it means clear and maintainable
 
 ---
 
@@ -283,14 +210,6 @@ Tools:        IntelliJ IDEA | VS Code | Git | Maven | Gradle | Docker
 - Creating AI-powered applications using modern LLM frameworks
 - Contributing to performance optimization achieving 10x+ improvements
 - Leading system design discussions for critical infrastructure
-
----
-
-## 🎬 Contribution History
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
 
 ---
 
